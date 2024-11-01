@@ -60,10 +60,10 @@ We're not just building an app; we're crafting the future of human civilization,
 
 ### Our Roadmap (We're Definitely Committed To This*)
 
-Q1 2024: Raise more money
-Q2 2024: Pivot
-Q3 2024: Raise even more money
-Q4 2024: Add blockchain
+Q1 2025: Raise more money
+Q2 2025: Pivot
+Q3 2025: Raise even more money
+Q4 2025: Add blockchain
 
 *Roadmap subject to change based on VC feedback, market conditions, or our next meditation retreat
 
